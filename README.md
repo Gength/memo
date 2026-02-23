@@ -24,3 +24,5 @@ TODO：幻觉检测，P(response| prompt, Ht)
 https://arxiv.org/pdf/2505.07293
 模型编辑-hidden states编辑-有害内容，个人隐私，特定隐私信息
 
+
+lienizhang@gmail.com
